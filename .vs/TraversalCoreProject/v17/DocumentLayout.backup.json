@@ -47,8 +47,7 @@
               "RelativeToolTip": "TraversalCoreProject\\Areas\\Member\\Views\\Profile\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T13:52:35.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T13:52:35.849Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "TraversalCoreProject\\Areas\\Member\\Controllers\\ProfileController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:23:10.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T13:23:10.803Z"
             }
           ]
         }
