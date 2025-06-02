@@ -1189,10 +1189,6 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\soft-ui-dashboard\\.gitattributes",
-      "PackagePath": "staticwebassets\\soft-ui-dashboard\\.gitattributes"
-    },
-    {
       "Id": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\soft-ui-dashboard\\CHANGELOG.md",
       "PackagePath": "staticwebassets\\soft-ui-dashboard\\CHANGELOG.md"
     },
@@ -2315,6 +2311,10 @@
     {
       "Id": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\soft-ui-dashboard\\pages\\virtual-reality.html",
       "PackagePath": "staticwebassets\\soft-ui-dashboard\\pages\\virtual-reality.html"
+    },
+    {
+      "Id": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\userimages\\6f5a39bf-d7ce-4647-aae8-fd2b1e723a00.jpg",
+      "PackagePath": "staticwebassets\\userimages\\6f5a39bf-d7ce-4647-aae8-fd2b1e723a00.jpg"
     },
     {
       "Id": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\web\\css\\style.css",
