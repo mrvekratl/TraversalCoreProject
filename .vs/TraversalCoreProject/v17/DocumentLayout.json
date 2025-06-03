@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\member\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\member\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\views\\shared\\components\\_guidelist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\views\\shared\\components\\_guidelist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\views\\admin\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\views\\admin\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D62757F-94D7-42CA-85F1-F6A4198BDFEE}|EntityLayer\\EntityLayer.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\entitylayer\\concrete\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D62757F-94D7-42CA-85F1-F6A4198BDFEE}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\views\\shared\\components\\_profileinformation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\views\\shared\\components\\_profileinformation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\wwwroot\\soft-ui-dashboard\\pages\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\wwwroot\\soft-ui-dashboard\\pages\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\viewcomponents\\memberdashboard\\_profileinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\viewcomponents\\memberdashboard\\_profileinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\member\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\member\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\member\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\member\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +22,46 @@
       "DocumentGroups": [
         {
           "DockedHeight": 288,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "profile.html",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
-              "RelativeToolTip": "TraversalCoreProject\\wwwroot\\soft-ui-dashboard\\pages\\profile.html",
-              "ViewState": "AgIAADQCAAAAAAAAAAAAADcCAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-02T17:56:23.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Guide.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\EntityLayer\\Concrete\\Guide.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Guide.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\EntityLayer\\Concrete\\Guide.cs",
-              "RelativeToolTip": "EntityLayer\\Concrete\\Guide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T17:46:47.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Views\\Shared\\Components\\_GuideList\\Default.cshtml",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Views\\Shared\\Components\\_GuideList\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Views\\Shared\\Components\\_GuideList\\Default.cshtml",
-              "RelativeToolTip": "TraversalCoreProject\\Views\\Shared\\Components\\_GuideList\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T17:34:11.252Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "TraversalCoreProject\\Areas\\Member\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\Destination\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Views\\Destination\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\Destination\\Index.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Views\\Destination\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T13:29:50.915Z",
+              "WhenOpened": "2025-06-03T11:49:25.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Views\\Shared\\Components\\_ProfileInformation\\Default.cshtml",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Views\\Shared\\Components\\_ProfileInformation\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Views\\Shared\\Components\\_ProfileInformation\\Default.cshtml",
-              "RelativeToolTip": "TraversalCoreProject\\Views\\Shared\\Components\\_ProfileInformation\\Default.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PartialSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Views\\Admin\\PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Views\\Admin\\PartialSideBar.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Views\\Admin\\PartialSideBar.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Views\\Admin\\PartialSideBar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T15:34:01.281Z"
+              "WhenOpened": "2025-06-03T11:24:04.14Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Member\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Member\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Member\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "TraversalCoreProject\\Areas\\Member\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TraversalCoreProject\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:29:07.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ProfileInformation.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\ViewComponents\\MemberDashboard\\_ProfileInformation.cs",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\ViewComponents\\MemberDashboard\\_ProfileInformation.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\ViewComponents\\MemberDashboard\\_ProfileInformation.cs",
-              "RelativeToolTip": "TraversalCoreProject\\ViewComponents\\MemberDashboard\\_ProfileInformation.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:31:33.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Member\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Member\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Member\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "TraversalCoreProject\\Areas\\Member\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:45:33.424Z"
+              "WhenOpened": "2025-06-03T11:06:21.664Z",
+              "EditorCaption": ""
             }
           ]
         }
