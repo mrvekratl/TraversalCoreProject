@@ -41,6 +41,7 @@
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Member\Data\" />
+    <Folder Include="ViewComponents\AdminDashboard\" />
     <Folder Include="wwwroot\userimages\" />
   </ItemGroup>
 
