@@ -1,0 +1,39 @@
+﻿@using EntityLayer.Concrete
+@model List<AppUser>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int sayac = 0;
+}
+
+<h1>Kullanıcı Listesi</h1>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Ad Soyad</th>
+        <th>Kullanıcı Adı</th>
+        <th>Mail Adresi</th>
+        <th>Tur Geçmişi</th>
+        <th>Yorumlar</th>
+        <th>Düzenle</th>
+        <th>Sil</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            @{
+                sayac = sayac + 1;
+            }
+            <th>@sayac</th>
+            <th>@item.Name + @item.Surname</th>
+            <th>@item.UserName</th>
+            <th>@item.Email</th>
+            <th><a href="/Admin/User/ReservationUser/@item.Id" class="btn btn-outline-secondary">TUR GEÇMİŞİ</a></th>
+            <th><a href="/Admin/User/CommentUser/@item.Id" class="btn btn-outline-info">YORUMLAR</a></th>
+            <th><a href="/Admin/User/EditUser/@item.Id" class="btn btn-outline-success">DÜZENLE</a></th>
+            <th><a href="/Admin/User/DeleteUser/@item.Id" class="btn btn-outline-danger">SİL</a></th>
+        </tr>
+    }
+</table>
+<a href="/Login/SignUp/" class="btn btn-outline-primary">Yeni Kullanıcı Kaydı</a>
