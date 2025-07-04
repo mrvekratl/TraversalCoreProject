@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\views\\guide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\views\\guide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
-              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T14:33:54.171Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

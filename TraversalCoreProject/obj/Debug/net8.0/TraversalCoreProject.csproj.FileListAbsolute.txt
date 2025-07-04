@@ -21,6 +21,7 @@ C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\Traver
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Humanizer.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\iTextSharp.LGPLv2.Core.dll
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\MailKit.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -80,6 +81,7 @@ C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\Traver
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\MimeKit.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\NuGet.Common.dll

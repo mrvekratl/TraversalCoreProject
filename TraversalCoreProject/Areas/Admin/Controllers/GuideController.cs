@@ -1,14 +1,19 @@
 ﻿using BusinessLayer.Abstract;
 using BusinessLayer.ValidationRules;
 using EntityLayer.Concrete;
-using Microsoft.AspNetCore.Mvc;
-using System.ComponentModel.DataAnnotations;
 using FluentValidation.Results;
-using ValidationResult = FluentValidation.Results.ValidationResult;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace TraversalCoreProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Route("Admin/Guide")]
+    [AllowAnonymous]
     public class GuideController : Controller
     {
         private readonly IGuideService _guideService;
@@ -17,17 +22,21 @@ namespace TraversalCoreProject.Areas.Admin.Controllers
         {
             _guideService = guideService;
         }
-
+        [Route("")]
+        [Route("Index")]
         public IActionResult Index()
         {
             var values = _guideService.TGetList();
             return View(values);
         }
+        [Route("AddGuide")]
         [HttpGet]
         public IActionResult AddGuide()
         {
             return View();
         }
+
+        [Route("AddGuide")]
         [HttpPost]
         public IActionResult AddGuide(Guide guide)
         {
@@ -47,26 +56,34 @@ namespace TraversalCoreProject.Areas.Admin.Controllers
                 return View();
             }
         }
+        [Route("EditGuide")]
         [HttpGet]
         public IActionResult EditGuide(int id)
         {
             var values = _guideService.TgetByID(id);
             return View(values);
         }
+        [Route("EditGuide")]
         [HttpPost]
         public IActionResult EditGuide(Guide guide)
         {
-           _guideService.TUpdate(guide);
-            return RedirectToAction("Index");
-        }
-        public IActionResult ChangeToTrue(int id)
-        {
-            return RedirectToAction("Index");
-        }
-        public IActionResult ChangeToFalse(int id)
-        {
+            _guideService.TUpdate(guide);
             return RedirectToAction("Index");
         }
 
+        [Route("ChangeToTrue/{id}")]
+
+        public IActionResult ChangeToTrue(int id)
+        {
+            _guideService.TChangeToTrueByGuide(id);
+            return RedirectToAction("Index", "Guide", new { area = "Admin" });
+        }
+        [Route("ChangeToFalse/{id}")]
+
+        public IActionResult ChangeToFalse(int id)
+        {
+            _guideService.TChangeToFalseByGuide(id);
+            return RedirectToAction("Index", "Guide", new { area = "Admin" });
+        }
     }
 }
