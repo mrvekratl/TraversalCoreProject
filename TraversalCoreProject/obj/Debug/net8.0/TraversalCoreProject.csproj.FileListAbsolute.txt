@@ -309,3 +309,5 @@ C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\Traver
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\obj\Debug\net8.0\TraversalCoreProject.pdb
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\obj\Debug\net8.0\TraversalCoreProject.genruntimeconfig.cache
 C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\obj\Debug\net8.0\ref\TraversalCoreProject.dll
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\DTOLayer.dll
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\TraversalCoreProject\bin\Debug\net8.0\DTOLayer.pdb

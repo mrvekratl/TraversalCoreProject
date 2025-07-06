@@ -1,0 +1,12 @@
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\bin\Debug\net8.0\DTOLayer.deps.json
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\bin\Debug\net8.0\DTOLayer.dll
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\bin\Debug\net8.0\DTOLayer.pdb
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\DTOLayer.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\DTOLayer.sourcelink.json
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\DTOLayer.dll
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\refint\DTOLayer.dll
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\DTOLayer.pdb
+C:\Users\Monster\Desktop\Github\TraversalCoreProject\TraversalCoreProject\DTOLayer\obj\Debug\net8.0\ref\DTOLayer.dll
