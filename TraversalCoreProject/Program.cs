@@ -3,13 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using DataAccessLayer.Concrete;
 using TraversalCoreProject.Models;
-using BusinessLayer.Abstract;
-using BusinessLayer.Concrete;
-using DataAccessLayer.Abstract;
-using DataAccessLayer.EntityFramework;
-using Microsoft.Extensions.Primitives;
 using BusinessLayer.Container;
-using Serilog.Extensions.Logging.File;
 using OfficeOpenXml;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,6 +14,8 @@ builder.Services.AddDbContext<Context>();
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
 
 builder.Services.ContainerDependencies();
+builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.CustomerValidator();
 builder.Services.AddLogging(x =>
 {
     x.ClearProviders();
