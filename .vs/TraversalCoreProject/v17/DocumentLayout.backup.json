@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\controllers\\bookinghotelsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\controllers\\bookinghotelsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\views\\bookinghotelsearch\\getcitydestid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\views\\bookinghotelsearch\\getcitydestid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\views\\bookinghotelsearch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\views\\bookinghotelsearch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\monster\\desktop\\github\\traversalcoreproject\\traversalcoreproject\\traversalcoreproject\\areas\\admin\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FB704F-B9B8-46AC-90DA-47557B2F8FDA}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\areas\\admin\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetCityDestID.cshtml",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\BookingHotelSearch\\GetCityDestID.cshtml",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Views\\BookingHotelSearch\\GetCityDestID.cshtml",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\BookingHotelSearch\\GetCityDestID.cshtml",
-              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Views\\BookingHotelSearch\\GetCityDestID.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T12:44:19.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookingHotelSearchController.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Controllers\\BookingHotelSearchController.cs",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Controllers\\BookingHotelSearchController.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Controllers\\BookingHotelSearchController.cs",
-              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Controllers\\BookingHotelSearchController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T12:30:27.974Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T16:06:57.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\BookingHotelSearch\\Index.cshtml",
-              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Views\\BookingHotelSearch\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Views\\BookingHotelSearch\\Index.cshtml",
-              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Views\\BookingHotelSearch\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T12:09:32.45Z",
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Models\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Models\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Models\\AccountViewModel.cs",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Models\\AccountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:03:27.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TraversalCoreProject\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:02:17.653Z",
               "EditorCaption": ""
             }
           ]

@@ -5,6 +5,8 @@ using DataAccessLayer.Concrete;
 using TraversalCoreProject.Models;
 using BusinessLayer.Container;
 using OfficeOpenXml;
+using TraversalCoreProject.CQRS.Handlers.DestinationHandlers;
+using MediatR;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,12 @@ builder.Services.AddHttpClient();
 builder.Services.ContainerDependencies();
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.CustomerValidator();
+builder.Services.AddScoped<GetAllDestinationQueryHandler>();
+builder.Services.AddScoped<GetDestinationByIDQueryHandler>();
+builder.Services.AddScoped<CreateDestinationCommandHandler>();
+builder.Services.AddScoped<RemoveDestinationCommandHandler>();
+builder.Services.AddScoped<UpdateDestinationCommandHandler>();
+builder.Services.AddMediatR(typeof(Program));
 builder.Services.AddLogging(x =>
 {
     x.ClearProviders();

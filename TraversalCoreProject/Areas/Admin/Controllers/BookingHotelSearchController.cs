@@ -1,12 +1,8 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
-using System.Threading.Tasks;
 using TraversalCoreProje.Areas.Admin.Models;
+using TraversalCoreProject.Areas.Admin.Models;
 
 namespace TraversalCoreProje.Areas.Admin.Controllers
 {
@@ -20,20 +16,27 @@ namespace TraversalCoreProje.Areas.Admin.Controllers
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Get,
-                RequestUri = new Uri("https://booking-com.p.rapidapi.com/v2/hotels/search?room_number=1&dest_type=city&order_by=popularity&dest_id=-1456928&locale=en-gb&checkin_date=2023-01-27&filter_by_currency=EUR&checkout_date=2023-01-28&adults_number=2&units=metric&children_ages=5%2C0&include_adjacency=true&categories_filter_ids=class%3A%3A2%2Cclass%3A%3A4%2Cfree_cancellation%3A%3A1&children_number=2"),
+                RequestUri = new Uri("https://booking-com15.p.rapidapi.com/api/v1/hotels/searchHotels?dest_id=20079942&search_type=CITY&arrival_date=2025-08-01&departure_date=2025-08-08&adults=2&children_age=0%2C17&room_qty=1&page_number=1&units=metric&temperature_unit=c&languagecode=en-us&currency_code=AED&location=US"),
                 Headers =
     {
-        { "X-RapidAPI-Key", "cb5ee15da1mshb46d59d679af3abp1fe84cjsn167590fdc0cc" },
-        { "X-RapidAPI-Host", "booking-com.p.rapidapi.com" },
+        {  "x-rapidapi-key", "2ae46c2f88msh3f43b0dfbcc71f8p1e7acfjsncd4ff215d031" },
+        { "x-rapidapi-host", "booking-com15.p.rapidapi.com"  },
     },
             };
             using (var response = await client.SendAsync(request))
             {
                 response.EnsureSuccessStatusCode();
                 var body = await response.Content.ReadAsStringAsync();
-                var bodyReplace = body.Replace(".", "");
-                var values = JsonConvert.DeserializeObject<BookingHotelSearchViewModel>(bodyReplace);
-                return View(values.result);
+                var result = JsonConvert.DeserializeObject<BookingHotelSearchViewModel.Rootobject>(body);
+
+                var hotels = result.data.hotels.Select(h => new BookingHotelSearchViewModel2
+                {
+                    HotelName = h.property.name,
+                    ReviewScore = h.property.reviewScore,
+                    ReviewScoreWord = h.property.reviewScoreWord
+                }).ToList();
+
+                return View(hotels);
             }
         }
 

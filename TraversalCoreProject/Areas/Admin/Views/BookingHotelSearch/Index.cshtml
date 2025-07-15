@@ -1,4 +1,4 @@
-﻿@model IEnumerable<TraversalCoreProje.Areas.Admin.Models.BookingHotelSearchViewModel.Result>
+﻿@model IEnumerable<TraversalCoreProject.Areas.Admin.Models.BookingHotelSearchViewModel2>
 
 
 @{
@@ -25,26 +25,36 @@
     @foreach (var item in Model)
     {
         count++;
-<tr>
-    <td>@count</td>
-    <td>@item.hotel_name</td>
-    @{ score = double.Parse(item.review_score.ToString()) / 10;}
-    <td>@score</td>
-    @{
-        if (item.review_score_word == "Very good")
-        {
-            <td>Çok İyi</td>
-        }
-        if (item.review_score_word == "Good")
-        {
-            <td>İyi</td>
-        } 
-        if (item.review_score_word == "Fabulous")
-        {
-            <td>Harika</td>
-        }
+        <tr>
+            <td>@count</td>
+            <td>@item.HotelName</td>
+            <td>@(item.ReviewScore)</td>
+            <td>
+                @{
+                    if (item.ReviewScoreWord == "Very good")
+                    {
+                        <text>Çok İyi</text>
+                        ;
+                    }
+                    else if (item.ReviewScoreWord == "Good")
+                    {
+                        <text>İyi</text>
+                        ;
+                    }
+                    else if (item.ReviewScoreWord == "Fabulous")
+                    {
+                        <text>Harika</text>
+                        ;
+                    }
+                    else
+                    {
+                        <text>@item.ReviewScoreWord</text>
+                        ;
+                    }
+                }
+            </td>
+            <td><a href="#" class="btn btn-outline-dark">Detaylar</a></td>
+        </tr>
     }
-    <td><a href="#" class="btn btn-outline-dark">Detaylar</a></td>
-</tr>
-    }
+
 </table>
