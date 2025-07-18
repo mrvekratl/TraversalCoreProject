@@ -20,6 +20,11 @@ namespace BusinessLayer.Concrete
 
         public void TAdd(ContactUs t)
         {
+            _contactUsDal.Insert(t);
+        }
+
+        public void TContactUsStatusChangeToFalse(int id)
+        {
             throw new NotImplementedException();
         }
 
@@ -29,6 +34,11 @@ namespace BusinessLayer.Concrete
         }
 
         public void TDelete(ContactUs t)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ContactUs TGetByID(int id)
         {
             throw new NotImplementedException();
         }
