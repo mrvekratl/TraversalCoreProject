@@ -32,20 +32,20 @@
           "TraversalCoreProject.dll": {}
         },
         "resources": {
+          "de/TraversalCoreProject.resources.dll": {
+            "locale": "de"
+          },
           "en/TraversalCoreProject.resources.dll": {
             "locale": "en"
+          },
+          "es/TraversalCoreProject.resources.dll": {
+            "locale": "es"
           },
           "fr/TraversalCoreProject.resources.dll": {
             "locale": "fr"
           },
           "tr/TraversalCoreProject.resources.dll": {
             "locale": "tr"
-          },
-          "de/TraversalCoreProject.resources.dll": {
-            "locale": "de"
-          },
-          "es/TraversalCoreProject.resources.dll": {
-            "locale": "es"
           }
         }
       },
