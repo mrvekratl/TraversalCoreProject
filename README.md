@@ -93,25 +93,6 @@ My goal was not just to "complete" a project — I wanted to **deeply understand
 
 ---
 
-## 🔄 Integration with TraversalApiProject
-
-This project is directly integrated with a custom API project developed as a separate microservice layer:
-- **GitHub Repo**: [TraversalApiProject](https://github.com/mrvekratl/TraversalApiProject)
-
-### 🔹 Why This Matters
-
-By structuring this integration, I was able to gain hands-on experience with:
-
-- 🔧 **Designing API Architectures** with multiple REST endpoints
-- 🔌 **Consuming both internal and external APIs** (e.g., RapidAPI for weather/news data)
-- 💻 **Using HttpClient** within service layers
-- 🧩 **Building modular, decoupled components** for easy maintenance and scalability
-- 🔁 **Connecting frontend views** with dynamic API-driven content
-
----
-
----
-
 ## 📊 Real-Time Communication with SignalR
 
 This project implements a simulated **real-time dashboard system** using SignalR technology.
@@ -146,7 +127,6 @@ Throughout the process, I continuously challenged myself to:
 ## 📎 Resources & Links
 
 - 🎓 **Course Playlist**: [YouTube – Traversal Mini Project by Murat Yücedağ](https://www.youtube.com/playlist?list=PLKnjBHu2xXNMK5MBogdXmsXVi3K_eEZT5)  
-- 🧠 **API Repository**: [TraversalApiProject](https://github.com/mrvekratl/TraversalApiProject)  
 - 📧 **Contact**: [LinkedIn – Merve Kıratlı](https://www.linkedin.com/in/merve-kiratli-0b049a187)
 
 ---
