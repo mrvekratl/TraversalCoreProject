@@ -30,7 +30,7 @@ namespace TraversalCoreProject.Controllers
             p.CommentDate = Convert.ToDateTime(DateTime.Now.ToShortDateString());
             p.CommentState = true;
             commentManager.TAdd(p);
-            return RedirectToAction("Index", "Destination");
+            return RedirectToAction("DestinationDetails", "Destination", new { id = p.DestinationID });
         }
     }
 }
